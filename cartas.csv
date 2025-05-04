@@ -1,0 +1,37 @@
+Mazo,Nombre del Perfil,Nivel de Experiencia,Responsabilidades Clave,Habilidad Especial
+Perfil ENISA,Analista de Ciberseguridad Junior,Principiante,Monitorización de alertas,Detección temprana
+Perfil ENISA,Analista de Ciberseguridad Senior,Avanzado,Análisis de incidentes complejos,Análisis forense
+Perfil ENISA,Arquitecto de Ciberseguridad,Experto,Diseño de sistemas seguros,Diseño resiliente
+Perfil ENISA,Gestor de Riesgos de Ciberseguridad,Intermedio,Evaluación y tratamiento de riesgos,Evaluación de vulnerabilidades
+Perfil ENISA,Auditor de Ciberseguridad,Avanzado,Realización de auditorías de seguridad,Pruebas de penetración
+Perfil ENISA,Desarrollador de Software Seguro,Intermedio,Implementación de código seguro,Codificación segura
+Perfil ENISA,CISO (Chief Information Security Officer),Experto,Estrategia y dirección de seguridad,Liderazgo en seguridad
+Perfil ENISA,Especialista en Respuesta a Incidentes,Avanzado,Contención y erradicación de incidentes,Gestión de crisis
+Perfil ENISA,Especialista en Inteligencia de Amenazas,Intermedio,Recopilación y análisis de inteligencia,Análisis de malware
+Perfil ENISA,Especialista en Seguridad en la Nube,Intermedio,Protección de entornos cloud,Seguridad cloud
+Perfil ENISA,Especialista en Seguridad OT/ICS,Intermedio,Protección de sistemas industriales,Seguridad industrial
+Perfil ENISA,Formador en Ciberseguridad,Intermedio,Desarrollo y entrega de formación,Concienciación en seguridad
+Mazo,Nombre de la Amenaza,Descripción,Impacto Potencial,Habilidad Especial
+Amenaza,Malware,Software malicioso que daña sistemas,Pérdida de datos,Interrupción del servicio,Antivirus
+Amenaza,Phishing,Engaño para obtener información sensible,Robo de credenciales,Pérdida financiera,Concienciación de usuarios
+Amenaza,Ataque DDoS,Sobrecarga de servicios para dejarlos inaccesibles,Interrupción del servicio,Mitigación de tráfico
+Amenaza,Ingeniería Social,Manipulación psicológica para obtener acceso,Compromiso de cuentas,Obtención de información,Formación en reconocimiento
+Amenaza,Ransomware,Secuestro de datos exigiendo rescate,Pérdida de acceso a datos,Recuperación de datos
+Amenaza,Amenaza Interna,Acciones maliciosas o negligentes desde dentro,Fuga de información,Daño a sistemas,Controles de acceso
+Amenaza,APT (Amenaza Persistente Avanzada),Ataque sofisticado y prolongado,Espionaje,Robo de propiedad intelectual,Detección de anomalías
+Amenaza,Vulnerabilidad de Software,Debilidad en el código explotable,Compromiso del sistema,Parches de seguridad
+Amenaza,Ataque a la Cadena de Suministro,Compromiso a través de terceros,Impacto en múltiples organizaciones,Auditoría de proveedores
+Amenaza,Zero-Day Exploit,Ataque que explota una vulnerabilidad desconocida,Compromiso inmediato,Monitorización proactiva
+Mazo,Nombre del Control,Descripción,Categoría,Habilidad Especial
+Control,Implementación de Antivirus,Software para detectar y eliminar malware,Preventivo,Detección y eliminación
+Control,Gestión de Parches,Proceso para actualizar software,Preventivo,Actualización oportuna
+Control,Firewall,Sistema de seguridad que controla el tráfico de red,Preventivo,Filtrado de tráfico
+Control,Autenticación Multifactor (MFA),Requiere múltiples formas de verificación,Preventivo,Verificación robusta
+Control,Copias de Seguridad (Backups),Duplicación de datos para recuperación,Correctivo,Restauración de datos
+Control,Plan de Recuperación ante Desastres (DRP),Procedimientos para restaurar la operatividad,Correctivo,Continuidad del negocio
+Control,Segmentación de Red,División de la red en zonas aisladas,Preventivo,Limitación de daños
+Control,Control de Acceso Basado en Roles (RBAC),Asignación de permisos según roles,Preventivo,Gestión de privilegios
+Control,Monitorización de Seguridad,Supervisión de sistemas y redes en busca de incidentes,Detectivo,Detección de incidentes
+Control,Pruebas de Penetración (Pentesting),Simulación de ataques para identificar vulnerabilidades,Detectivo,Identificación de debilidades
+Control,Formación y Concienciación en Seguridad,Educación de usuarios sobre riesgos,Preventivo,Comportamiento seguro
+Control,Cifrado de Datos en Reposo y en Tránsito,Protección de la confidencialidad de los datos,Preventivo,Confidencialidad de la información
